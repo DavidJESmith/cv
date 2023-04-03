@@ -1,0 +1,25 @@
+body {
+  background-color: #1a120b;
+  color: #e5e5cb;
+  font-family: "Roboto", sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e5e5cb;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1,
+h3 {
+  color: #d5cea3;
+}
+
+table {
+  border-spacing: 10px;
+}
