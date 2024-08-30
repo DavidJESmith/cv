@@ -23,6 +23,10 @@ table {
   border-spacing: 10px;
 }
 
+a {
+  color: #7B7188;
+}
+
 .centrecontainer {
   margin: auto;
   width: 50%;
