@@ -23,3 +23,7 @@ h3 {
 table {
   border-spacing: 10px;
 }
+
+.container {
+  margin-top: 10%;
+}
