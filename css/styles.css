@@ -2,10 +2,6 @@ body {
   background-color: #242029;
   color: #7B7188;
   font-family: "Roboto", sans-serif;
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-top: 25%;
-  margin-bottom: 25%;
   text-align: center;
 }
 
@@ -25,4 +21,10 @@ h3 {
 
 table {
   border-spacing: 10px;
+}
+
+.centrecontainer {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
