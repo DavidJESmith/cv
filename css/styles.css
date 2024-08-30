@@ -1,6 +1,6 @@
 body {
-  background-color: #1a120b;
-  color: #e5e5cb;
+  background-color: #242029;
+  color: #7B7188;
   font-family: "Roboto", sans-serif;
   margin-left: 10%;
   margin-right: 10%;
@@ -10,14 +10,14 @@ hr {
   background-color: inherit;
   border-style: none;
   border-top-style: dotted;
-  border-color: #e5e5cb;
+  border-color: #7B7188;
   border-width: 5px;
   width: 5%;
 }
 
 h1,
 h3 {
-  color: #d5cea3;
+  color: #7B7188;
 }
 
 table {
