@@ -5,6 +5,7 @@ body {
   margin-left: 25%;
   margin-right: 25%;
   margin-top: 50%;
+  text-align: center;
 }
 
 hr {
@@ -23,5 +24,4 @@ h3 {
 
 table {
   border-spacing: 10px;
-  text-align: center;
 }
