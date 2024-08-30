@@ -36,6 +36,10 @@ a {
   padding: 10px;
 }
 
+.header {
+  font-weight: bold;
+}
+
 .footer {
   font-weight: bold;
 }
