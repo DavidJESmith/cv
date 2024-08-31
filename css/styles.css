@@ -20,7 +20,7 @@ a {
 }
 
 .content {
-  position: relative;
+  position: absolute;
   width: 90%;
 }
 
