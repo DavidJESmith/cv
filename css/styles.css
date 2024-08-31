@@ -17,10 +17,12 @@ a {
 .centrecontainer {
   height: 800px;
   display: grid;
+  position: absolute;
   place-items: center;
 }
 
 .content {
+  position: relative;
   height: 400px;
   width: 90%;
 }
