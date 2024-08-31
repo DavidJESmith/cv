@@ -21,11 +21,6 @@ a {
   align-items: center;
 }
 
-.content {
-  width: 95%;
-  height: 95%;
-}
-
 .text {
   height: 200px;
   overflow-x: hidden;
