@@ -19,7 +19,8 @@ a {
 }
 
 .content{
-  margin: 50px 50px;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
 }
 
 .text{
