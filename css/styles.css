@@ -15,6 +15,7 @@ a {
 }
 
 .centrecontainer {
+  height: 800px;
   display: grid;
   place-items: center;
 }
