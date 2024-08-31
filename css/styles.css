@@ -19,13 +19,13 @@ a {
   display: grid;
   position: absolute;
   place-items: center;
+  transform: translate(-50%, -50%)
 }
 
 .content {
   position: relative;
   height: 400px;
   width: 90%;
-  transform: translate(-50%, -50%)
 }
 
 .header {
