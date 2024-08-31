@@ -16,12 +16,13 @@ a {
 
 .centrecontainer {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 4px;
 }
 
 .text {
-  height: 200px;
   overflow-x: hidden;
   overflow-y: auto;
 }
