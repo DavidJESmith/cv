@@ -36,6 +36,11 @@ a {
   padding: 10px;
 }
 
+.centredimg {
+  display: block;
+  margin: auto;
+}
+
 .header {
   font-weight: bold;
 }
