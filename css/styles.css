@@ -16,6 +16,8 @@ a {
 
 .centrecontainer {
   margin: auto;
+  top: 25%;
+  bottom: 25%;
   padding: 10px;
 }
 
