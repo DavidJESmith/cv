@@ -18,6 +18,14 @@ a {
   margin: auto;
 }
 
+.content{
+  margin: 25%
+}
+
+.text{
+  margin: auto;
+}
+
 .header {
   font-weight: bold;
 }
