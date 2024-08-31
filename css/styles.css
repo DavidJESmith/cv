@@ -20,14 +20,6 @@ a {
   padding: 10px;
 }
 
-.centredimg {
-  margin: auto;
-}
-
-.centredimg img {
-  vertical-align: middle;
-}
-
 .header {
   font-weight: bold;
 }
