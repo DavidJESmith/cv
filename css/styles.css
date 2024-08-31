@@ -15,7 +15,8 @@ a {
 }
 
 .centrecontainer {
-  padding: 50%;
+  padding-bottom: 25%;
+  padding-top: 25%;
 }
 
 .header {
