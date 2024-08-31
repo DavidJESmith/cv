@@ -38,7 +38,7 @@ a {
 
 .centredimg {
   display: block;
-  margin: auto;
+  margin: auto, 100px, auto, auto;
 }
 
 .header {
