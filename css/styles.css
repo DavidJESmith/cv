@@ -16,13 +16,13 @@ a {
 
 .centrecontainer {
   display: flex;
-  height: 90vh;
+  height: 750px;
   justify-content: center;
   align-items: center;
 }
 
 .content {
-  width: 95%;
+  width: 750px;
 }
 
 .header {
