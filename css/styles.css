@@ -16,12 +16,14 @@ a {
 
 .centrecontainer {
   margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 500px;
 }
 
 .content{
-  padding-top: 10%;
-  padding-bottom: 10%;
+  height: 750px;
 }
 
 .text{
