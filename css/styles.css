@@ -42,6 +42,10 @@ a {
   text-align: center;
 }
 
+.centredimg img {
+  vertical-align: middle;
+}
+
 .header {
   font-weight: bold;
 }
