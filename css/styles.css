@@ -14,7 +14,7 @@ a {
   color: #76cb00;
 }
 
-.container {
+.homecontainer {
   display: flex;
   height: 100vh;
   flex-direction: column;
