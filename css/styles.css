@@ -27,6 +27,7 @@ a {
 }
 
 .text {
+  height: auto;
   overflow-x: hidden;
   overflow-y: auto;
 }
