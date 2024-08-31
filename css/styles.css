@@ -15,9 +15,9 @@ a {
 }
 
 .centrecontainer {
-  margin: 25%;
+  margin: auto;
   vertical-align: middle;
-  padding: 10px;
+  padding: 25%;
 }
 
 .header {
