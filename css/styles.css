@@ -15,16 +15,12 @@ a {
 }
 
 .centrecontainer {
-  height: 800px;
   display: grid;
-  position: absolute;
   place-items: center;
-  transform: translate(-50%, -50%)
 }
 
 .content {
   position: relative;
-  height: 400px;
   width: 90%;
 }
 
