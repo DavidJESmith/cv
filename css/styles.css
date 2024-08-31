@@ -16,11 +16,12 @@ a {
 
 .centrecontainer {
   margin: auto;
+  width: 500px;
 }
 
 .content{
-  padding-top: 25vh;
-  padding-bottom: 25vh;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 
 .text{
